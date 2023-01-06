@@ -1,6 +1,6 @@
 # Youtube-Multiuser-Blog-Post
 ## Tutorial : Si te ndertojme nje Blog 
-## [Kliko kete link dhe shiko video tutorial ne youtube ](https://www.youtube.com/@adikica/videos)
+## [Kliko kete link dhe shiko video tutorial ne youtube ](https://www.youtube.com/watch?v=OuHrKgbNvyM&list=PLVfIbV1AvJy9WJ_BeXMDmJYOX9dLUWgYs)
 ## Nevoiten njohuri ne HTML,CSS,JAVASCRIPT ...cdo njohuri tjeter eshte plus per ju
 ## Vështiresia Fillestarë
 
